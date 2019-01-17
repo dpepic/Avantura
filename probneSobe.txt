@@ -1,12 +1,2 @@
 Uvodna soba
 Ovo je samo test za sobe
-zapad+1+istok+2+sever+3
-Druga soba
-Jos jedna soba
-istok+0+
-Treca soba
-I imamo jos jednu sobu ovde...
-zapad+0+
-Cetvrta soba
-Nova sobaaaaa
-jug+0+

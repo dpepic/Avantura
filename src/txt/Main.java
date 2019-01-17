@@ -7,7 +7,7 @@ public class Main
 {
 	public static void main(String[] args) throws IOException 
 	{
-		BufferedReader ucitaj = new  BufferedReader(new FileReader("probneSobe.txt"));
+		BufferedReader ucitaj = new  BufferedReader(new FileReader("sobe.txt"));
 		Vector<String> podaci = new Vector<String>();
 		Vector<Soba> sobe = new Vector<Soba>();
 		
